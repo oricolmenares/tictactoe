@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/oricolmenares/pen/PVVvxX.
+A short react tutorial creating an interactive tic-tac-toe. You can check it out at https://codepen.io/oricolmenares/pen/PVVvxX.
 
  
